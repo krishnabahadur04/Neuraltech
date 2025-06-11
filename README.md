@@ -1,4 +1,5 @@
 # Neuraltech
+![image](https://github.com/user-attachments/assets/67dcdd0f-5756-47e0-bd59-995515d1bec4)
 
 Team Name
 Neuralltech
@@ -13,5 +14,7 @@ Technologies Used
 HTML CSS 
 IBM Watson Assistant
 
-Demo Video
-[]([Link to your YouTube, Google Drive, or Microsoft OneDrive video])
+Demo Video: https://www.loom.com/share/0453d45d21e041fab3bf62fd0905d80c?sid=5eef6efb-b63a-4360-8ac3-85470db2a2cb
+
+Deployment Link: https://neuraltech.vercel.app/
+
